@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "quasar": "^1.0.0",
     "vue2-dropzone": "^3.6.0",
     "xlsx": "^0.15.1"
